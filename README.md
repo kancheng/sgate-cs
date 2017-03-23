@@ -1,4 +1,3 @@
-# sgatecs
+# sgate-cs
 LHU special topic
-
-LHU 畢業專題
+目標是做一個 PHP 為主的選課系統。
